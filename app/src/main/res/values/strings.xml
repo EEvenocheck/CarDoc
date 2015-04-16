@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CarDoc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_new_car">AddNewCar</string>
+    <string name="add_car">ADD CAR</string>
+    <string name="new_car">NEW CAR</string>
+    <string name="car_make">CAR MAKE</string>
+    <string name="car_model">CAR MODEL</string>
+    <string name="car_year">CAR YEAR</string>
+    <string name="car_mileage">CAR MILEAGE</string>
+    <string name="last_oil">LAST OIL CHANGE</string>
+    <string name="last_air">LAST AIR FILTER CHANGE</string>
+    <string name="last_wheel">LAST WHEEL REALIGNMENT</string>
+    <string name="last_brake">LAST BRAKE CHECK</string>
+    <string name="last_tran">LAST TRANSMISSION FLUID CHANGE</string>
+    <string name="title_activity_car_info">CarInfo</string>
+    <string name="go_home">HOME</string>
+    <string name="make">Make:  \u0020</string>
+    <string name="model">Model: \u0020 </string>
+    <string name="year">Year: \u0020 </string>
+    <string name="mileage">Mileage: \u0020 </string>
+    <string name="oil">Oil Change: \u0020 </string>
+    <string name="air">Air Filter:  \u0020</string>
+    <string name="wheel">Wheel Realignment:  \u0020</string>
+    <string name="brake">Brake Check:  \u0020</string>
+    <string name="trans">Transmission Fluid:  \u0020</string>
+    <string name="get_car_info">GET CAR INFO</string>
+    <string name="edit">EDIT</string>
+    <string name="title_activity_edit_car">EditCar</string>
+    <string name="change_car">CHANGE</string>
+    <string name="next_oil_change">NEXT OIL CHANGE: \u0020</string>
+    <string name="next_air_filter">NEXT AIR FILTER:  \u0020</string>
+    <string name="next_wheel">NEXT WHEEL REALIGNMENT:  \u0020</string>
+    <string name="next_brakes">NEXT BRAKE CHECK:  \u0020</string>
+    <string name="next_trans">NEXT TRANSMISSION FLUID CHANGE:  \u0020</string>
+
+
+
+</resources>
